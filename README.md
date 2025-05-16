@@ -10,14 +10,19 @@ The purpose of this dashboard is to provide clear, data-driven insights to help 
 Power BI Desktop
 – For building and designing the interactive dashboard.
 DAX (Data Analysis Expressions)
+
 – Used for creating calculated columns, measures, and custom aggregations.
 Power Query (M Language)
+
 – For data transformation and cleaning before visualization.
 Microsoft Excel / CSV
+
 – As a source of raw sales data.
 Power BI Visuals
+
 – Built-in charts like bar charts, pie charts, donut charts, and slicers for filtering.
 Data Modeling
+
 – To relate tables and manage data relationships effectively in Power BI.
 
 ### 6.	Screenshots / Demos
