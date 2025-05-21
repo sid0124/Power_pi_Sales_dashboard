@@ -1,4 +1,4 @@
-# Power_pi_Sales_dashboard
+# Power_bi_Sales_dashboard
 ### 1.	Sales Analysis: Store Data Analysis
 Uncovering Sales Trends with Data-Driven Dashboards
 
